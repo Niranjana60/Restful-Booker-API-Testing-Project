@@ -14,6 +14,7 @@ Endpoints Tested
 
 Method	Endpoint	Description
 POST	/auth	Generate auth token
+
 GET	/booking	Retrieve booking IDs
 GET	/booking/{id}	Retrieve specific booking
 POST	/booking	Create a new booking

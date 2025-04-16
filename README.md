@@ -16,10 +16,15 @@ Method	Endpoint	Description
 POST	/auth	Generate auth token
 
 GET	/booking	Retrieve booking IDs
+
 GET	/booking/{id}	Retrieve specific booking
+
 POST	/booking	Create a new booking
+
 PUT	/booking/{id}	Update existing booking
+
 PATCH	/booking/{id}	Partially update booking
+
 DELETE	/booking/{id}	Delete a booking
 
 Sample Report

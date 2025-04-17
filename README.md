@@ -10,7 +10,7 @@ Includes Auth: Token-based authentication for secure endpoints
 
  Report Generation: HTML reports via Newman CLI
 
-Endpoints Tested
+**Endpoints Tested**
 
 Method	Endpoint	Description
 POST	/auth	Generate auth token
@@ -27,7 +27,7 @@ PATCH	/booking/{id}	Partially update booking
 
 DELETE	/booking/{id}	Delete a booking
 
-Sample Report
+**Sample Report**
 
  You can view a full HTML report in the reports/ folder after running the collection.
 
